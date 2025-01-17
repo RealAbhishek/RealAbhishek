@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I’m a Principal Software Engineer with a strong 
 ## What I’m Working On
 
 - **Security-Centric Projects**: Combining my software engineering background with cybersecurity principles to build secure, scalable, and efficient applications.  
-- **Open Source Contributions**: Actively exploring and contributing to open-source communities focused on compilers (LLVM), build systems (CMake), and python-based tooling.  
 - **Academic Pursuits**: Drawing on real-world experiences to enrich my cybersecurity research and apply new findings to enterprise-grade software solutions.
 
 ## Skills & Interests
