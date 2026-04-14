@@ -4,7 +4,7 @@
 ### Principal Software Engineer · Cybersecurity Grad Student · Open Source Advocate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-realabhishek-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realabhishek)
-[![Email](https://img.shields.io/badge/Email-adubey%40workfusion.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adubey@workfusion.com)
+[![Email](https://img.shields.io/badge/Email-to.abhishek.dubey%40proton.me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:to.abhishek.dubey@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-RealAbhishek-181717?style=flat&logo=github&logoColor=white)](https://github.com/RealAbhishek)
 [![Portfolio](https://img.shields.io/badge/Portfolio-realabhishek.github.io-4CAF50?style=flat&logo=githubpages&logoColor=white)](https://realabhishek.github.io)
 
@@ -152,7 +152,7 @@ Focus: Secure software development, threat modeling, vulnerability mitigation, a
 | Platform | Link |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/realabhishek](https://www.linkedin.com/in/realabhishek) |
-| 📧 Work Email | [adubey@workfusion.com](mailto:adubey@workfusion.com) |
+| 📧 Work Email | [to.abhishek.dubey@proton.me](mailto:to.abhishek.dubey@proton.me) |
 | 🎓 University Email | [adubey@sandiego.edu](mailto:adubey@sandiego.edu) |
 | 🌐 Portfolio | [realabhishek.github.io](https://realabhishek.github.io) |
 
